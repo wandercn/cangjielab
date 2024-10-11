@@ -1,10 +1,3 @@
 
-helloworld/.cache/astdata/helloworld.12430305521273376665.ast
-helloworld/target/.cjpm-history
-helloworld/target/release/.build-logs/helloworld/helloworld.errlog
-helloworld/target/release/.build-logs/helloworld/helloworld.outlog
-helloworld/target/release/bin/helloworld.bchir2
-helloworld/target/release/bin/helloworld.cjo
-helloworld/target/release/bin/main
-helloworld/target/release/helloworld-cache.json
-helloworld/target/release/helloworld/incremental-cache.json
+.cache
+target

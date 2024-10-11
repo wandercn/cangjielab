@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cangjieDebugBuild",
+			"cmd": "/Users/lsmiao/cangjie/bin/cjc",
+			"args": [
+				"-g",
+				"/Users/lsmiao/workspace/src/github.com/wandercn/cangjielab/helloworld/src/main.cj",
+				"-o",
+				"/Users/lsmiao/workspace/src/github.com/wandercn/cangjielab/helloworld/src/main"
+			],
+			"label": "cangjieDebug build task - u34BEoDfhT",
+			"options": {
+				"env": {
+					"SDKROOT": "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk"
+				}
+			}
+		}
+	]
+}

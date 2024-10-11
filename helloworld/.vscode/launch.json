@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Cangjie (CJNative): main",
+            "program": "/Users/lsmiao/workspace/src/github.com/wandercn/cangjielab/helloworld/src/main",
+            "request": "launch",
+            "type": "cangjieDebug",
+            "externalConsole": false,
+            "env": {},
+            "preLaunchTask": "cangjieDebug build task - u34BEoDfhT"
+        }
+    ]
+}
